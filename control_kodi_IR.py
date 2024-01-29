@@ -5,7 +5,7 @@
 
 
 import serial # pip install pyserial
-import clipboard # pip install clipboard
+#import clipboard # pip install clipboard
 import requests # pip install requests
 import json
 import subprocess
